@@ -15,6 +15,7 @@ source $HOME/.cargo/env
 
 
 rustc --version
+
 cargo --version
 
 
@@ -28,6 +29,7 @@ source ~/.bashrc
 
 
 soundnessup install
+
 soundnessup update
 
 
